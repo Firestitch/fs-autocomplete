@@ -59,7 +59,7 @@
     "cpx": "^1.5.0",
     "date-fns": "^2.16.1",
     "hammerjs": "^2.0.8",
-    "highlight.js": "^9.15.10",
+    "highlight.js": "^10.4.1",
     "lodash-es": "^4.17.11",
     "ng-packagr": "^10.1.0",
     "ngx-highlightjs": "^4.1.2",
